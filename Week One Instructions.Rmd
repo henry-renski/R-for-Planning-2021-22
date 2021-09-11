@@ -13,6 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
+New code added here..
+
 Welcome to the R practice class!  Because of the limited amount of in-class time, most of the work will be done outside of class and on your own.  We will use the class primarily for extra practice and group trouble shooting.
 
 Note:  These instructions were created using the RMarkdown package.  RMarkdown is made for generating interactive reports where you can mix text, code, charts, tables and other visual displays.  Its very handy for making interactive class materials.
