@@ -1,10 +1,8 @@
 ---
 title: "Week One Instructions"
 author: "Henry Renski"
-output:
-  html_document:
-    df_print: paged
-  word_document: default
+output: github_document
+  
 ---
 
 ```{r setup, include=FALSE}
